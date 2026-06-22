@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "drawio-code-skill",
+  "description": "Generate polished draw.io diagrams from code — architecture, UML, ERD, flowcharts, ML/DL figures, and more.",
+  "owner": {
+    "name": "dalanmao1",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "drawio-code-skill",
+      "description": "Generate .drawio XML diagrams from code structure, call graphs, class hierarchies, and system architecture. Supports 10,000+ shapes. Exports to PNG/SVG/PDF/JPG via draw.io desktop CLI.",
+      "source": {
+        "source": "github",
+        "repo": "dalanmao1/drawio-code-skill",
+        "ref": "main"
+      },
+      "version": "1.0.0",
+      "category": "development",
+      "keywords": ["drawio", "diagram", "architecture", "uml", "erd", "flowchart", "visualization"],
+      "homepage": "https://github.com/dalanmao1/drawio-code-skill"
+    }
+  ]
+}

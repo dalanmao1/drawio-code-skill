@@ -1,0 +1,15 @@
+{
+  "name": "drawio-code-skill",
+  "displayName": "Draw.io Diagrams",
+  "version": "1.14.0",
+  "description": "Generate polished .drawio diagrams with auto-layout, 10k+ shapes, AI brand logos, and export to PNG/SVG/PDF. Use for architecture diagrams, UML, ERD, flowcharts, ML model figures, and more.",
+  "author": {
+    "name": "Agents365-ai",
+    "url": "https://github.com/Agents365-ai/drawio-skill"
+  },
+  "homepage": "https://github.com/Agents365-ai/drawio-skill",
+  "repository": "https://github.com/Agents365-ai/drawio-skill",
+  "license": "MIT",
+  "keywords": ["drawio", "diagram", "flowchart", "architecture", "visualization", "uml", "erd", "sequence", "ml", "network"],
+  "dependencies": []
+}
