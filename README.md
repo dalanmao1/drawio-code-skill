@@ -50,6 +50,43 @@ drawio-code-skill/
 - Optional: Graphviz (`dot`) for auto-layout
 - Optional: Vision-enabled model for self-check
 
+## Installation
+
+Install via the Claude Code plugin marketplace.
+
+### 1. Add the marketplace
+
+In a Claude Code session, run:
+
+```
+/plugin marketplace add dalanmao1/drawio-code-skill
+```
+
+### 2. Install the plugin
+
+```
+/plugin install drawio-code-skill@drawio-code-skill
+```
+
+The format is `<plugin-name>@<marketplace-name>`. After installation, the `drawio` skill is automatically registered.
+
+### 3. Verify
+
+Start a new Claude Code session and try:
+
+```
+Draw a simple client-server architecture diagram
+```
+
+The `drawio` skill should auto-trigger, generate a `.drawio` file, and export a PNG.
+
+### Update / Uninstall
+
+```
+/plugin update drawio-code-skill
+/plugin uninstall drawio-code-skill
+```
+
 ## Usage
 
 Invoke via Claude Code skill system. The skill auto-activates when users request diagrams, flowcharts, architecture diagrams, ER diagrams, UML, sequence diagrams, network topology, ML/DL model figures, mind maps, or any visualization.
