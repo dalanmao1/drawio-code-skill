@@ -44,6 +44,13 @@ drawio-code-skill/
         └── handdrawn.json            # Hand-drawn sketch style
 ```
 
+## Examples
+
+| sequence diagrams            | architecture diagrams         | flowcharts             |
+|------------------------------|-------------------------------|------------------------|
+| ![alt text](./img/image.png) | ![alt text](./img/image2.png) | ![alt text](image.png) |
+|                              |
+
 ## Prerequisites
 
 - draw.io desktop app CLI (`drawio` or `draw.io`)
