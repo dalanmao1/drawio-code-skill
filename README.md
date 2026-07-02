@@ -46,10 +46,9 @@ drawio-code-skill/
 
 ## Examples
 
-| sequence diagrams            | architecture diagrams         | flowcharts             |
-|------------------------------|-------------------------------|------------------------|
-| ![alt text](./img/image.png) | ![alt text](./img/image2.png) | ![alt text](image.png) |
-|                              |
+| sequence diagrams            | architecture diagrams         | flowcharts                    |
+|------------------------------|-------------------------------|-------------------------------|
+| ![alt text](./img/image.png) | ![alt text](./img/image2.png) | ![alt text](./img/image3.png) |
 
 ## Prerequisites
 
